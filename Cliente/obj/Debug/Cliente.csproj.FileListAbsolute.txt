@@ -1,0 +1,9 @@
+C:\Users\Cesar Reyes\Documents\UNI\4o\Redes\P2P\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Cesar Reyes\Documents\UNI\4o\Redes\P2P\Cliente\bin\Debug\Cliente.exe
+C:\Users\Cesar Reyes\Documents\UNI\4o\Redes\P2P\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Cesar Reyes\Documents\UNI\4o\Redes\P2P\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\Cesar Reyes\Documents\UNI\4o\Redes\P2P\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Cesar Reyes\Documents\UNI\4o\Redes\P2P\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\Cesar Reyes\Documents\UNI\4o\Redes\P2P\Cliente\obj\Debug\Cliente.exe
+C:\Users\Cesar Reyes\Documents\UNI\4o\Redes\P2P\Cliente\obj\Debug\Cliente.pdb
+C:\Users\Cesar Reyes\Documents\UNI\4o\Redes\P2P\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
